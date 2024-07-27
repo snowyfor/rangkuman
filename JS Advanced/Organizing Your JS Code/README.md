@@ -1,0 +1,1 @@
+One of the most daunting parts of JavaScript is learning how to organize your code. As your program becomes more complex, it can become hard to maintain unless you take care to organize your code, and because JavaScript is such a flexible language, how you do that is entirely up to you. For many coders, making decisions about design patterns is crippling, so we’re here to help.
